@@ -206,6 +206,28 @@ main{
     justify-content: center;
     align-items: center;
 }
+.about{
+    background: #1F2937;
+    width: 50%;
+    height: 100%;
+    color: #1F2937;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: "Roboto", serif;
+    flex-wrap: wrap;
+    margin: 5em 8em;
+    border-radius: 10px;
+}
+.about #about-us {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+    color: #F9FAF8;
+    line-height: 30px;
+}
 .ctn{
     background: #3882F6;
     margin: 5em 10em;
